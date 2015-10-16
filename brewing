@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo brew Update && brew upgrade && brew cleanup ; say brew update, upgrade, cleanup complete; notify brew update, upgrade, cleanup complete 
