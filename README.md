@@ -2,6 +2,13 @@
 
 A repository for managing some short and helpful commands for the OS X cli.
 
+## how to install?
+1. git clone https://github.com/Nixoxo/shortcommands.git in your HOME directory
+2. Add in _~/.bash_profile_ the following line _export PATH="$HOME/shortcommands/bin:$PATH"_
+3. cd _~/shortcommands/bin_
+4. chmod +x <file>
+5. enjoy!
+
 ## commands
 
 Command       | Purpose
