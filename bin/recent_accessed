@@ -1,0 +1,2 @@
+#!/bin/bash
+find ./ -amin -60 # access time
